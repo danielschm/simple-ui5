@@ -1,0 +1,10 @@
+<mvc:View
+        xmlns:mvc="sap.ui.core.mvc"
+        xmlns:core="sap.ui.core"
+        xmlns="sap.m"
+        xmlns:f="sap.f"
+        controllerName="myExampleApp.main.App" displayBlock="true">
+    <Page>
+        <Text text="Test Test"/>
+    </Page>
+</mvc:View>
